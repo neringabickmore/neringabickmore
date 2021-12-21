@@ -110,8 +110,8 @@ align="left">
 </p>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=neringabickmore&show_icons=true&locale=en&layout=compact"
-    alt="neringabickmore" /></p>
-<p><img align="center"
+    alt="neringabickmore" />
+    <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=neringabickmore&show_icons=true&locale=en" alt="neringabickmore" /></p>
 <p><img align="center"
 src="https://github-readme-streak-stats.herokuapp.com/?user=neringabickmore&" alt="neringabickmore"/></p>
