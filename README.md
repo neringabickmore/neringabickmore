@@ -20,16 +20,16 @@ align="center">
 </p>
 
 - 🔭 I have completed [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma) **Diploma in Software Development with [Merit](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32723873)** in May 2021.
+- 🔭 I have recently upskilled my knowledge in CSS and Sass by completing Udemy [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312878?start=0#overview) course.
   
 - 🔭 I have also completed [University of Cambridge](https://www.jbs.cam.ac.uk/) course - **[Business Analytics: Decision Making Using Data](https://certificates.emeritus.org/e4707b9d-b776-424e-b458-a936fd674576)**
   
 - 🔭 I’m currently working on private projects. Here is my [most recent project](https://github.com/neringabickmore/dr.katsimigos.aesthetics). You can see my other projects on [Github](https://github.com/neringabickmore?tab=repositories&q=&type=public&language=&sort=)
 
 - 🌱 I’m currently learning:
-  - Udemy: [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312878?start=0#overview)
   - Udemy: [The Complete Junior to Senior Developer Roadmap 2022](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn/lecture/10285818?start=15#overview)
 
-- 👯 I’m looking to collaborate on **Django Projects**
+- 👯 I’m open to collaborating on interesting projects.
 - 📫 You can reach me via email: **neringa.bickmore@gmail.com**
 
 <!-- - 🤔 I’m looking for help with ...
@@ -63,6 +63,11 @@ align="left">
     target="_blank">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+    <!-- Sass-->
+    <a href="https://www.w3schools.com/sass/"
+    target="_blank">
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/></a>
     <!-- Javascript  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
     target="_blank">
